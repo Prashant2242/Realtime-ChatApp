@@ -8,7 +8,7 @@
 
 ### Overview
 
-This Real-Time Chat Application is built using React.js and Firebase to enable secure authentication and real-time messaging. Users can sign up, log in, and communicate instantly with others. Firebase Authentication ensures secure login, while Firestore updates messages in real time without page refreshes.
+This Real-Time Chat Application is built using React.js, Zustand for state management and Firebase to enable secure authentication and real-time messaging. Users can sign up, log in, and communicate instantly with others. Firebase Authentication ensures secure login, while Firestore updates messages in real time without page refreshes.
 
 The app consists of three sections: Chat List, displaying user conversations; Chat Window, where users send and receive messages; and Details Section, offering settings, logout, and a block feature. This project showcases state management in React, real-time database handling, and Firebase authentication, making it ideal for learning scalable web application development. 🚀
 
