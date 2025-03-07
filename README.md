@@ -1,4 +1,4 @@
-#Real-Time Chat Application
+### Real Time Chat Application
 
 ![Image](https://github.com/user-attachments/assets/f71405a9-7d3e-4e78-b93c-d3d1645cd0e8)
 
